@@ -4,7 +4,7 @@ public class Country {
 
     String name;
     String capital;
-    boolean attended;
+    boolean visited;
     int population;
 
 
